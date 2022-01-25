@@ -1,1 +1,1 @@
-this special repository readme sure is a cool feature
+this readme sure is a cool feature
